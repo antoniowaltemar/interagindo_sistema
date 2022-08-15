@@ -3,5 +3,5 @@ let d= new Date();
 
 
 function clique(){
-    document.getElementById('baixo').innerHTML= `${'O que eu recebi do sistema foi:'+ d}`;
+    document.getElementById('baixo').innerHTML=`${'O que eu recebi do sistema foi:'+ d}`;
 }
